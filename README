@@ -1,0 +1,20 @@
+Class::Bind version 0.1
+=========================
+
+Class::Bind is a Perl module to bind methods and arguments into
+anonymous functions. 
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2010 Jens Luedicke <jensl@cpan.org>. All rights reserved.
+This program is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.

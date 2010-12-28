@@ -1,0 +1,7 @@
+lib/Class/Bind.pm
+lib/Class/Bind/Arg.pm
+MANIFEST
+META.yml
+Build.PL
+README
+Makefile.PL
