@@ -1,5 +1,5 @@
 lib/Class/Bind.pm
-lib/Class/Bind/Arg.pm
+lib/Class/Bind/Argument.pm
 MANIFEST
 META.yml
 Build.PL

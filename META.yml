@@ -1,8 +1,8 @@
 ---
 name: Class-Bind
-version: 0.1
+version: 0.2
 author:
-  - 'Jens Luedicke E<lt>jensl@cpan.orgE<gt> web: L<http://nullmedium.org/>'
+  - 'Jens Luedicke E<lt>jensl@cpan.orgE<gt>'
 abstract: bind arguments to functions.
 license: perl
 resources:
@@ -12,9 +12,9 @@ requires:
 provides:
   Class::Bind:
     file: lib/Class/Bind.pm
-    version: 0.1
-  Class::Bind::Arg:
-    file: lib/Class/Bind/Arg.pm
+    version: 0.2
+  Class::Bind::Argument:
+    file: lib/Class/Bind/Argument.pm
 generated_by: Module::Build version 0.280801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
